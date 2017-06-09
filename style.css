@@ -56,5 +56,23 @@ ul{
 
 #logo{
   font-size: 90px;
-  padding: 200px;
+}
+
+#sub-title{
+  font-size: 20px;
+}
+
+.space{
+  padding: 150px;
+}
+
+#copyright_container{
+  padding: 15px 0;
+}
+
+#copyright_content{
+  text-align: center;
+  font-family: "Verdana";
+  font-size: 14px;
+  color: #ccc;
 }
