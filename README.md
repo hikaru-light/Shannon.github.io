@@ -1,4 +1,3 @@
 # Shannon
-The source code of my homepage "Shannon"
-
-## It has my locus.<br>Biography, Works, Blog, etc.
+This is the source code of my homepage "Shannon".
+It has my locus. Biography, Works, Blog, etc.
