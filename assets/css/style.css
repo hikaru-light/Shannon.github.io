@@ -34,7 +34,7 @@ ul{
 
 .menu_bar_link{
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #333333), color-stop(1, #333333));
-  color: white;
+  color: #ffffff;
   display: inline-block;
   width: 180px;
   font-size: 16px;
