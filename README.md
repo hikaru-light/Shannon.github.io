@@ -1,3 +1,3 @@
 # Shannon
 This is my homepage "Shannon".<br>
-It has my locus. Biography, Works, Blog, etc.
+It has my locus, Biography, Works, Blog and etc.
