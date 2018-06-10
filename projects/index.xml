@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shannon | Hikaru Suido</title>
+    <link>https://hikaru-light.github.io/projects/</link>
+    <description>Recent content in Projects on Shannon | Hikaru Suido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:16 -0500</lastBuildDate>
+    
+	<atom:link href="https://hikaru-light.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saint George</title>
+      <link>https://hikaru-light.github.io/projects/saint_george/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://hikaru-light.github.io/projects/saint_george/</guid>
+      <description> Type : Sculpture Date : January, 2018 Time : 6 hours </description>
+    </item>
+    
+    <item>
+      <title>Venus de Milo - Torso</title>
+      <link>https://hikaru-light.github.io/projects/venus_de_milo/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://hikaru-light.github.io/projects/venus_de_milo/</guid>
+      <description> Type : Drawing Date : February, 2018 Time : 6 hours </description>
+    </item>
+    
+    <item>
+      <title>Erasmo of Narni</title>
+      <link>https://hikaru-light.github.io/projects/erasmo_of_narni/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://hikaru-light.github.io/projects/erasmo_of_narni/</guid>
+      <description> Type : Drawing Date : February, 2018 Time : 6 hours </description>
+    </item>
+    
+    <item>
+      <title>Test4</title>
+      <link>https://hikaru-light.github.io/projects/test4/</link>
+      <pubDate>Thu, 29 Mar 2018 15:26:21 +0900</pubDate>
+      
+      <guid>https://hikaru-light.github.io/projects/test4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
