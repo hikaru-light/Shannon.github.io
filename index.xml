@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>ハッシュテーブルの長さについて、記事を書きました！</title>
+      <link>https://hikaru-light.github.io/blog/20180611/</link>
+      <pubDate>Mon, 11 Jun 2018 03:47:26 +0900</pubDate>
+      
+      <guid>https://hikaru-light.github.io/blog/20180611/</guid>
+      <description>Qiitaのほうで、ハッシュテーブルの長さに「素数」を用いたほうが良い理由について書きました。  宜しければ、参考にしてください！</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://hikaru-light.github.io/projects/etc/</link>
       <pubDate>Sun, 10 Jun 2018 08:05:20 +0900</pubDate>
@@ -84,11 +93,11 @@
     </item>
     
     <item>
-      <title>Blog 開始！</title>
-      <link>https://hikaru-light.github.io/blog/blog_%E9%96%8B%E5%A7%8B/</link>
+      <title>Blog開始！</title>
+      <link>https://hikaru-light.github.io/blog/20180610/</link>
       <pubDate>Sun, 10 Jun 2018 05:14:22 +0900</pubDate>
       
-      <guid>https://hikaru-light.github.io/blog/blog_%E9%96%8B%E5%A7%8B/</guid>
+      <guid>https://hikaru-light.github.io/blog/20180610/</guid>
       <description>Blogを始めました！  主に自身の活動について綴っていこうと思います。 技術的なことに関しては、Qiitaのほうを見てください！  ホームページにも徐々に手を入れていかねば&amp;hellip;&amp;hellip;</description>
     </item>
     
