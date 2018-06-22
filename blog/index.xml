@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Shannon | Hikaru Suido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 11 Jun 2018 03:47:26 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jun 2018 21:08:16 +0900</lastBuildDate>
     
 	<atom:link href="https://hikaru-light.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>確率論に関する記事を書きました！その他、近況報告。</title>
+      <link>https://hikaru-light.github.io/blog/20180622/</link>
+      <pubDate>Fri, 22 Jun 2018 21:08:16 +0900</pubDate>
+      
+      <guid>https://hikaru-light.github.io/blog/20180622/</guid>
+      <description>確率論に関する以下の3つの記事を、Qiitaのほうに上げました！ 確率や統計を扱っていく上で根底となる「定義」がメインです。  確率論 ~確率測度~ 確率論 ~分布関数と確率(密度)関数~ 確率論 ~ベイズの定理~  また、最近はコンピュータ・グラフィクスのレンダラーの実装に挑戦しています！ 手始めに「古典的レイトレーシング」に取り組み、次のようなレンダリング結果が出ました。     今回は、アンビエント・オクルージョンやスーパー・サンプリングなども実装しています。  人工知能や機械学習だけでなく、コンピュータ・グラフィクスの分野でも、 確率論や統計学を始めとする数学的知見は極めて重要なので、頑張って勉強してまいります！</description>
+    </item>
     
     <item>
       <title>ハッシュテーブルの長さについて、記事を書きました！</title>
