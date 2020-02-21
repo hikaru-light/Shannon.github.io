@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Shannon | Hikaru Suido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 30 Dec 2018 19:43:40 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 15:39:55 +0900</lastBuildDate>
     
 	<atom:link href="https://hikaru-light.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>希望の園エデン零式：共鳴編４、野良で早期到達！</title>
+      <link>https://hikaru-light.github.io/blog/20200221/</link>
+      <pubDate>Fri, 21 Feb 2020 15:39:55 +0900</pubDate>
+      
+      <guid>https://hikaru-light.github.io/blog/20200221/</guid>
+      <description>只今の時間をもちまして、野良で共鳴編の零式4層に到達しました！ やったー！</description>
+    </item>
     
     <item>
       <title>&#34;CycleGAN&#34;に関する記事を書きました。</title>
@@ -17,7 +26,7 @@
       <pubDate>Sun, 30 Dec 2018 19:43:40 +0900</pubDate>
       
       <guid>https://hikaru-light.github.io/blog/20181230/</guid>
-      <description>久しぶりのブログ更新になります。 一週間ほど前になりますが、&amp;rdquo;CycleGAN&amp;rdquo;の原著の論文を解</description>
+      <description>久しぶりのブログ更新になります。 一週間ほど前になりますが、&amp;rdquo;CycleGAN&amp;rdquo;の原著の論文</description>
     </item>
     
     <item>
@@ -26,7 +35,7 @@
       <pubDate>Fri, 22 Jun 2018 21:08:16 +0900</pubDate>
       
       <guid>https://hikaru-light.github.io/blog/20180622/</guid>
-      <description>確率論に関する以下の3つの記事を、Qiitaのほうに上げました！ 確率や統計を扱っていく上で根底となる「定義」がメインで</description>
+      <description>確率論に関する以下の3つの記事を、Qiitaのほうに上げました！ 確率や統計を扱っていく上で根底となる「定義」がメイ</description>
     </item>
     
     <item>
@@ -35,7 +44,7 @@
       <pubDate>Mon, 11 Jun 2018 03:47:26 +0900</pubDate>
       
       <guid>https://hikaru-light.github.io/blog/20180611/</guid>
-      <description>Qiitaのほうで、ハッシュテーブルについて記事を書きました。 ハッシュテーブルの長さに「素数」を用いたほうが良い理由 よ</description>
+      <description>Qiitaのほうで、ハッシュテーブルについて記事を書きました。 ハッシュテーブルの長さに「素数」を用いたほうが良い理</description>
     </item>
     
     <item>
@@ -44,7 +53,7 @@
       <pubDate>Sun, 10 Jun 2018 05:14:22 +0900</pubDate>
       
       <guid>https://hikaru-light.github.io/blog/20180610/</guid>
-      <description>ブログを始めました！ 主に自身の活動について綴っていこうと思います。 技術的なことに関しては、Qiitaのほうを見てくださ</description>
+      <description>ブログを始めました！ 主に自身の活動について綴っていこうと思います。 技術的なことに関しては、Qiitaのほうを見てく</description>
     </item>
     
   </channel>
